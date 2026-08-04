@@ -1,0 +1,68 @@
+<definition type="element" link_type="simple" hotspot_x="15" hotspot_y="18" width="210" height="130" version="0.100.0">
+    <uuid uuid="{35e7b770-b14b-3479-705f-177487b0a522}"/>
+    <names>
+        <name lang="ar">CPU 1214C 6ES7214-1AG31-0XB0 PART2</name>
+        <name lang="ca">CPU 1214C 6ES7214-1AG31-0XB0 PART 2</name>
+        <name lang="cs">CPU 1214C 6ES7214-1AG31-0XB0 PART2</name>
+        <name lang="en">CPU 1214C 6ES7214-1AG31-0XB0 PART2</name>
+        <name lang="fr">CPU 1214C 6ES7214-1AG31-0XB0 PART2</name>
+        <name lang="pl">CPU 1214C 6ES7214-1AG31-0XB0 PART2</name>
+        <name lang="pt">CPU 1214C 6ES7214-1AG31-0XB0 PART2</name>
+    </names>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <text x="136.74" y="98.24" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text="PART 2/5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <text x="-1" y="99" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text="DC/DC/DC"/>
+        <text x="3" y="6" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text="1M"/>
+        <text x="24" y="16" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text="DIa"/>
+        <text x="27" y="5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text=".0"/>
+        <text x="-1" y="89" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text="CPU 1214C"/>
+        <text x="52" y="32" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text="24VDC INPUTS"/>
+        <text x="167" y="5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text=".7"/>
+        <text x="107" y="5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text=".4"/>
+        <text x="87" y="5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text=".3"/>
+        <text x="67" y="5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text=".2"/>
+        <text x="47" y="5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text=".1"/>
+        <text x="147" y="5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text=".6"/>
+        <text x="127" y="5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" text=".5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="180" length1="1.5" x2="180" length2="1.5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="110" style="line-style:dashed;line-weight:normal;filling:none;color:black" x1="-10" length1="1.5" x2="-10" length2="1.5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="153" length1="1.5" x2="167" length2="1.5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="133" length1="1.5" x2="147" length2="1.5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="113" length1="1.5" x2="127" length2="1.5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="93" length1="1.5" x2="107" length2="1.5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="73" length1="1.5" x2="87" length2="1.5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="53" length1="1.5" x2="67" length2="1.5"/>
+        <ellipse x="127.5" y="-10.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5"/>
+        <ellipse x="27.5" y="-10.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5"/>
+        <ellipse x="107.5" y="-10.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5"/>
+        <ellipse x="7.5" y="-10.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="13" length1="1.5" x2="27" length2="1.5"/>
+        <ellipse x="147.5" y="-10.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5"/>
+        <ellipse x="87.5" y="-10.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5"/>
+        <ellipse x="67.5" y="-10.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="33" length1="1.5" x2="47" length2="1.5"/>
+        <ellipse x="167.5" y="-10.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5"/>
+        <ellipse x="47.5" y="-10.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7" length1="1.5" x2="-10" length2="1.5"/>
+        <line end1="none" end2="none" y1="-8" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="173" length1="1.5" x2="190" length2="1.5"/>
+        <line end1="none" end2="none" y1="20" antialias="false" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="180" length2="1.5"/>
+        <line end1="none" end2="none" y1="70" antialias="false" y2="70" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" length1="1.5" x2="189" length2="1.5"/>
+        <line end1="none" end2="none" y1="-7" antialias="false" y2="109" style="line-style:dashed;line-weight:normal;filling:none;color:black" x1="190" length1="1.5" x2="190" length2="1.5"/>
+        <line end1="none" end2="none" y1="110" antialias="false" y2="110" style="line-style:dashed;line-weight:normal;filling:none;color:black" x1="-9" length1="1.5" x2="190" length2="1.5"/>
+        <dynamic_text Halignment="AlignLeft" frame="false" x="156.74" y="110.25" z="41" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{0bb12f51-2a3f-4375-8e65-956bdd81ee0e}" keep_visual_rotation="false" Valignment="AlignTop" text_from="ElementInfo">
+            <text/>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal type="Generic" x="10" y="-11" name="" uuid="{f7bd805e-a14c-4d98-b8f8-dc4deadfb355}" orientation="n"/>
+        <terminal type="Generic" x="30" y="-11" name="" uuid="{759f221e-a4f5-4520-aa5b-63294e298bd0}" orientation="n"/>
+        <terminal type="Generic" x="50" y="-11" name="" uuid="{af89c168-b9c8-4772-8c4c-f1ae68e0e4bd}" orientation="n"/>
+        <terminal type="Generic" x="70" y="-11" name="" uuid="{969349ee-3fe9-4ed3-8c5c-7ab74b021419}" orientation="n"/>
+        <terminal type="Generic" x="90" y="-11" name="" uuid="{86e55a25-9eee-4e7c-a649-90174553d1a0}" orientation="n"/>
+        <terminal type="Generic" x="110" y="-11" name="" uuid="{a74a301c-7f20-4e24-9583-55b43b4a219c}" orientation="n"/>
+        <terminal type="Generic" x="130" y="-11" name="" uuid="{213d367d-17d6-426e-b83c-8e5461afc3f6}" orientation="n"/>
+        <terminal type="Generic" x="150" y="-11" name="" uuid="{1e8aca88-617d-4700-bf45-74d2c82a03c2}" orientation="n"/>
+        <terminal type="Generic" x="170" y="-11" name="" uuid="{139524d4-6efc-4005-9bd4-2144a545809c}" orientation="n"/>
+    </description>
+</definition>
