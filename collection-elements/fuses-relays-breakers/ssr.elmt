@@ -1,0 +1,46 @@
+<definition type="element" link_type="master" hotspot_x="20" hotspot_y="24" width="40" height="50" version="0.100.0">
+    <uuid uuid="{722f4f31-d30d-4ba3-b48b-4898bcabee55}"/>
+    <names>
+        <name lang="ca">Relé electrònic</name>
+        <name lang="cs">Elektronické relé</name>
+        <name lang="de">Relais elektronisch</name>
+        <name lang="el">Ηλεκτρονικό ρελέ</name>
+        <name lang="en">Electronic relay</name>
+        <name lang="es">Relé electrónico</name>
+        <name lang="fr">Relais électronique</name>
+        <name lang="hu">Tranzisztoros működtetés</name>
+        <name lang="it">Relè a comando elettronico</name>
+        <name lang="nl">relais electronisch</name>
+        <name lang="nl_BE">Electronisch relais</name>
+        <name lang="pl">Przekaźnik elektroniczny</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect ry="0" x="-15" y="-10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="30" height="20" rx="0"/>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-7" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="-6" antialias="false" y2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="20" antialias="false" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="-20" antialias="false" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-14" y="10" z="8" rotation="0" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular" text_width="-1" uuid="{89969859-879e-43c2-9a52-a48bf7e3bc3b}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>A2</text>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-14" y="-25" z="9" rotation="0" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular" text_width="-1" uuid="{96ec5abe-9642-4b22-b49b-7e97522dfbb9}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>A1</text>
+        </dynamic_text>
+        <polygon closed="false" y1="-8" antialias="false" y2="-2" y3="2" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7" y4="8" x2="0" x3="0" x4="7"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="18" y="-24" z="10" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{88dc4499-ea44-436b-b57e-5419557a816b}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="18" y="2" z="10" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{88dc4499-ea44-436b-b57e-5419557a816b}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <terminal type="Generic" x="0" y="20" name="A2" uuid="{00010eac-39b1-4e53-9763-92e2e05e01e1}" orientation="s"/>
+        <terminal type="Generic" x="0" y="-20" name="A1" uuid="{1040d11a-d254-4623-b48d-acede7ce1975}" orientation="n"/>
+    </description>
+</definition>
