@@ -1,0 +1,39 @@
+<definition type="element" link_type="simple" hotspot_x="10" hotspot_y="24" width="20" height="70" version="0.100.0">
+    <uuid uuid="{6ad1232d-1233-4357-b242-cceee366d3cd}"/>
+    <names>
+        <name lang="ar">مصدر ثلاثي القطبيّة + PEN</name>
+        <name lang="ca">Font tripolar + N + PE</name>
+        <name lang="cs">Přípojnice 3f+N+PE pravá</name>
+        <name lang="de">Drehstrom + PEN</name>
+        <name lang="el">Τριφασικό + PEN</name>
+        <name lang="en">Two-pole source + N + PE</name>
+        <name lang="es">Fuente tripolar + PEN</name>
+        <name lang="fr">Source tripolaire + PEN</name>
+        <name lang="hu">3F + N + PE</name>
+        <name lang="it">Sorgente tripolare + PEN</name>
+        <name lang="nl">driefasen + aardenul</name>
+        <name lang="pl">Linia trójfazowa (PEN)</name>
+        <name lang="ru">Трёхполюсный + PEN</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-7" y="-70" z="1" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{1955f25e-b33b-4106-8b36-46862006122c}" keep_visual_rotation="true" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text x="-19" y="43" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="PE"/>
+        <text x="-19" y="23" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="N"/>
+        <line end1="none" end2="none" y1="40.45" antialias="false" y2="40.45" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="4" length1="1.5" x2="-6" length2="1.5"/>
+        <text x="-19" y="3" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L2"/>
+        <text x="-19" y="-17" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L1"/>
+        <line end1="none" end2="none" y1="-19.55" antialias="false" y2="-19.55" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="4" length1="1.5" x2="-6" length2="1.5"/>
+        <line end1="none" end2="none" y1="0.45" antialias="false" y2="0.45" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="4" length1="1.5" x2="-6" length2="1.5"/>
+        <line end1="none" end2="none" y1="20.45" antialias="false" y2="20.45" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="4" length1="1.5" x2="-6" length2="1.5"/>
+        <terminal type="Generic" x="4" y="40.45" name="PE" uuid="{8512acc7-2986-4e56-a5fa-1511f5ce77d2}" orientation="e"/>
+        <terminal type="Generic" x="4" y="-19.55" name="L1" uuid="{fefd1338-0ddf-4793-a2eb-3d8f66cfbe5b}" orientation="e"/>
+        <terminal type="Generic" x="4" y="0.45" name="L2" uuid="{56769562-6014-40c8-b5de-152aca0797d3}" orientation="e"/>
+        <terminal type="Generic" x="4" y="20.45" name="N" uuid="{9a3c1ea1-e75f-4b30-9a9c-5de353ad0625}" orientation="e"/>
+    </description>
+</definition>

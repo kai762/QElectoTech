@@ -1,0 +1,62 @@
+<definition type="element" link_type="terminal" hotspot_x="4" hotspot_y="14" width="40" height="30" version="0.100.0">
+    <uuid uuid="{18512ef0-9960-44c1-ae85-9e9613a53ea3}"/>
+    <names>
+        <name lang="ar">طرف توصيل</name>
+        <name lang="ca">Born de continuïtat</name>
+        <name lang="cs">Spojovací svorka</name>
+        <name lang="de">Klemme</name>
+        <name lang="en">Terminal block</name>
+        <name lang="es">Terminal de unión</name>
+        <name lang="fr">Borne continuité</name>
+        <name lang="hu">Sorkapocs</name>
+        <name lang="it">Terminale di unione</name>
+        <name lang="nl">klem doorgang</name>
+        <name lang="pl">Zacisk</name>
+        <name lang="pt">Terminal de combinação</name>
+        <name lang="ru">Клеммное соединение</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="40" y="5" z="1" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{4fd10592-5123-45bd-8350-1728f89bcab3}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>_</text>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="45" y="-20" z="2" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{7c991418-29d1-42a3-af6e-bae38c949416}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text x="14" y="14" font="Liberation Sans,5,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="d"/>
+        <text x="4" y="14" font="Liberation Sans,5,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="b"/>
+        <text x="4" y="-8" font="Liberation Sans,5,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="c"/>
+        <text x="24" y="-8" font="Liberation Sans,5,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="g"/>
+        <text x="26" y="14" font="Liberation Sans,5,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="f"/>
+        <text x="14" y="-8" font="Liberation Sans,5,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="e"/>
+        <line end1="none" end2="none" y1="10" antialias="false" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" length1="1.5" x2="10" length2="1.5"/>
+        <line end1="none" end2="none" y1="10" antialias="false" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="30" length1="1.5" x2="30" length2="1.5"/>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="13" length1="1.5" x2="17" length2="1.5"/>
+        <line end1="none" end2="none" y1="-10" antialias="false" y2="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" length1="1.5" x2="10" length2="1.5"/>
+        <line end1="none" end2="none" y1="-10" antialias="false" y2="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="30" length1="1.5" x2="30" length2="1.5"/>
+        <circle x="7.5" y="-2.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <circle x="27.5" y="-2.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <line end1="none" end2="none" y1="-10" antialias="false" y2="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="10" antialias="false" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="20" length1="1.5" x2="20" length2="1.5"/>
+        <circle x="-2.5" y="-2.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <line end1="none" end2="none" y1="-10" antialias="false" y2="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="20" length1="1.5" x2="20" length2="1.5"/>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="3" length1="1.5" x2="7" length2="1.5"/>
+        <circle x="17.5" y="-2.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="23" length1="1.5" x2="27" length2="1.5"/>
+        <text x="-6" y="-8" font="Liberation Sans,5,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="a"/>
+        <terminal type="Generic" x="30" y="10" name="" uuid="{c0cd486b-d37d-46e1-a6bb-d98adaf08ac5}" orientation="s"/>
+        <terminal type="Generic" x="10" y="10" name="" uuid="{908b0392-4ff9-40e8-9e33-4fa810ebb9fa}" orientation="s"/>
+        <terminal type="Generic" x="30" y="-10" name="" uuid="{cb592f48-3330-4fea-a1c3-e6d4ded11ece}" orientation="n"/>
+        <terminal type="Generic" x="0" y="-10" name="" uuid="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" orientation="n"/>
+        <terminal type="Generic" x="10" y="-10" name="" uuid="{b2dbb502-0a16-4d6f-ba57-ce4fe53a3187}" orientation="n"/>
+        <terminal type="Generic" x="20" y="10" name="" uuid="{7e4b0b14-478c-4d90-823c-77a0cb2c335d}" orientation="s"/>
+        <terminal type="Generic" x="20" y="-10" name="" uuid="{adf2ee72-624c-4310-8950-d64b4d71f89b}" orientation="n"/>
+    </description>
+</definition>
