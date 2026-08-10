@@ -1,0 +1,46 @@
+<definition type="element" link_type="simple" hotspot_x="45" hotspot_y="24" width="80" height="50" version="0.100.0">
+    <uuid uuid="{c4dec2fc-e18a-4b77-b772-5553415aca83}"/>
+    <names>
+        <name lang="ca">Relleu polaritzat</name>
+        <name lang="cs">Polarizované monostabilní relé</name>
+        <name lang="de">Relais polarisiert mit Wechsler</name>
+        <name lang="el">Πηνίο ρελέ με πολικότητα</name>
+        <name lang="en">dc_relay</name>
+        <name lang="es">Relé polarizado, de trabajo en una dirección de la corriente en la bobina</name>
+        <name lang="fr">Relais polarisé fonctionnant pour un seul sens du courant et retournant en position de repos après coupure</name>
+        <name lang="it">Relè polarizzato</name>
+        <name lang="nl">Polair relais</name>
+        <name lang="pl">Przekaźnik spolaryzowany, działający przy jednym kierunku prądu w cewce</name>
+    </names>
+    <elementInformations/>
+    <informations>License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text x="-30" y="19" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="A2"/>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="0" style="line-style:dashed;line-weight:normal;filling:none;color:black" x1="-5" length1="1.5" x2="16" length2="1.5"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="19.5" y="-22.95" z="4" rotation="0" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular" text_width="-1" uuid="{b78642aa-b230-4912-906b-6cbb070a3151}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>1</text>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="10" y="8.5" z="5" rotation="0" font="Liberation Sans,4,-1,5,25,0,0,0,0,0,Regular" text_width="-1" uuid="{94edcc6b-71b0-4d35-ad29-3a4e09592ebe}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>2</text>
+        </dynamic_text>
+        <polygon closed="false" y1="20" antialias="true" y2="10" y3="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="20" x2="20" x3="12"/>
+        <line end1="none" end2="none" y1="20" antialias="false" y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-20" length1="1.5" x2="-20" length2="1.5"/>
+        <rect ry="0" x="-42" y="-10" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" width="7" height="20" rx="0"/>
+        <rect ry="0" x="-35" y="-10" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="30" height="20" rx="0"/>
+        <line end1="none" end2="none" y1="-20" antialias="false" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="30" length1="1.5" x2="30" length2="1.5"/>
+        <rect ry="0" x="-42" y="-7" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="4" height="14" rx="0"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="40" y="-20" z="14" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{bb4158fb-c7dd-4a99-a8e9-1e640ae795f2}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="40" y="5" z="14" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{bb4158fb-c7dd-4a99-a8e9-1e640ae795f2}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <text x="-30" y="-15" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="A1"/>
+        <terminal type="Generic" x="-20" y="-20" name="" uuid="{aba00468-848a-b4c3-e15c-9f5c4c0ba2a4}" orientation="n"/>
+        <terminal type="Generic" x="20" y="20" name="" uuid="{3a002d6b-a1ad-1a7d-1975-00c9ff9ef047}" orientation="s"/>
+        <terminal type="Generic" x="30" y="-20" name="" uuid="{4a5da44d-fffd-f56a-2b24-c1a82ba7fadc}" orientation="n"/>
+        <terminal type="Generic" x="-20" y="20" name="" uuid="{1ddcfa4f-3d5f-63f3-5015-ce48313e767c}" orientation="s"/>
+    </description>
+</definition>
