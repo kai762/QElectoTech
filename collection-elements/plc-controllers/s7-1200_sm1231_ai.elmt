@@ -1,5 +1,5 @@
 <definition type="element" link_type="simple" hotspot_x="90" hotspot_y="65" width="180" height="130" version="0.100.0">
-    <uuid uuid="{3efd19dc-154f-40ae-b4f4-0779205c4544}"/>
+    <uuid uuid="{0f39c550-d813-40bc-ac18-9d0439828c50}"/>
     <names>
         <name lang="ca">S7-1200 SM1231 AI</name>
         <name lang="cs">S7-1200 SM1231 AI</name>
@@ -54,10 +54,10 @@
         <line end1="none" end2="none" y1="19" antialias="false" y2="19" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-17" length1="1.5" x2="-23" length2="1.5"/>
         <line end1="none" end2="none" y1="17" antialias="false" y2="19" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-23" length1="1.5" x2="-23" length2="1.5"/>
         <line end1="none" end2="none" y1="17" antialias="false" y2="17" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-23" length1="1.5" x2="-22" length2="1.5"/>
+        <line end1="none" end2="none" y1="3" antialias="false" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-21" length1="1.5" x2="-23" length2="1.5"/>
         <dynamic_text frame="false" Halignment="AlignLeft" x="-80" y="-5" z="49" rotation="270" font="Liberation Sans,5,-1,5,0,0,0,0,0,0,Regular" text_width="-1" uuid="{27d9e8b9-37b8-f2b1-6d74-552d4968da01}" keep_visual_rotation="true" text_from="UserText" Valignment="AlignTop">
             <text>DIAG</text>
         </dynamic_text>
-        <line end1="none" end2="none" y1="3" antialias="false" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-21" length1="1.5" x2="-23" length2="1.5"/>
         <dynamic_text frame="false" Halignment="AlignLeft" x="-15" y="10" z="50" rotation="0" font="Liberation Sans,7,-1,5,0,0,0,0,0,0,Regular" text_width="-1" uuid="{d29cabba-503b-cd27-fb64-a9ea45ee6c0f}" keep_visual_rotation="true" text_from="UserText" Valignment="AlignTop">
             <text>6ES7231-4HD50-0XB0</text>
         </dynamic_text>
@@ -81,12 +81,12 @@
         <terminal type="Generic" x="20" y="-35" name="" uuid="{7ad967d6-7b47-48a4-aaf6-427870758dba}" orientation="n"/>
         <terminal type="Generic" x="5" y="-35" name="" uuid="{53abf56d-1258-4bb8-ab0f-b5156390ac52}" orientation="n"/>
         <terminal type="Generic" x="-25" y="-35" name="" uuid="{90bc78e7-aca5-4721-969e-e57a51347832}" orientation="n"/>
-        <terminal type="Generic" x="-45" y="48" name="" uuid="{803009ce-9bbe-4621-8c8b-e77d32bac3c5}" orientation="n"/>
-        <terminal type="Generic" x="-30" y="48" name="" uuid="{62442ecb-311b-46f6-b556-9fed60abd519}" orientation="n"/>
-        <terminal type="Generic" x="0" y="48" name="" uuid="{5e571828-4aa7-458b-9ca7-2a21fe1af150}" orientation="n"/>
-        <terminal type="Generic" x="15" y="48" name="" uuid="{099e6214-5fe5-4932-bc77-a0e66e5a4c9d}" orientation="n"/>
+        <terminal type="Generic" x="-45" y="48" name="" uuid="{803009ce-9bbe-4621-8c8b-e77d32bac3c5}" orientation="s"/>
+        <terminal type="Generic" x="-30" y="48" name="" uuid="{62442ecb-311b-46f6-b556-9fed60abd519}" orientation="s"/>
+        <terminal type="Generic" x="0" y="48" name="" uuid="{5e571828-4aa7-458b-9ca7-2a21fe1af150}" orientation="s"/>
+        <terminal type="Generic" x="15" y="48" name="" uuid="{099e6214-5fe5-4932-bc77-a0e66e5a4c9d}" orientation="s"/>
         <terminal type="Generic" x="-40" y="-35" name="" uuid="{3361456c-f38c-4fff-9d6e-6335db76acea}" orientation="n"/>
-        <terminal type="Generic" x="-15" y="48" name="" uuid="{d19232ae-5b34-45c1-9e63-3460e37ae4e2}" orientation="n"/>
+        <terminal type="Generic" x="-15" y="48" name="" uuid="{d19232ae-5b34-45c1-9e63-3460e37ae4e2}" orientation="s"/>
         <terminal type="Generic" x="-10" y="-35" name="" uuid="{210b0a9a-24f0-41b6-86cf-604f1ca2bae0}" orientation="n"/>
     </description>
 </definition>
