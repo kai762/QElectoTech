@@ -1,0 +1,45 @@
+<definition type="element" link_type="simple" hotspot_x="41" hotspot_y="29" width="90" height="60" version="0.100.0">
+    <uuid uuid="{cb193980-1fd4-461e-9300-a380f7cea576}"/>
+    <names>
+        <name lang="ca">Filtre de línia 3P</name>
+        <name lang="cs">Síťový filtr 3f</name>
+        <name lang="de">Netzfilter 3P</name>
+        <name lang="en">Line filter 1P</name>
+        <name lang="es">Filtro de linea 3P</name>
+        <name lang="fr">Filtre réseau 3P</name>
+        <name lang="pl">Trójbiegunowy filtr sieciowy</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 06-14-03</informations>
+    <description>
+        <rect ry="0" x="-35" y="-25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="75" height="50" rx="0"/>
+        <text x="-24" y="-14" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L1"/>
+        <text x="-7" y="19" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L2.1"/>
+        <text x="-5" y="-14" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L2"/>
+        <text x="26" y="3" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="PE"/>
+        <text x="-28" y="19" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L1.1"/>
+        <line end1="none" end2="none" y1="-5" antialias="false" y2="5" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="3" length1="1.5" x2="-3" length2="1.5"/>
+        <arc x="-9" y="-3" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" start="90" width="10" height="8" angle="90"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="60" y="-25" z="10" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{fb13357d-6747-4ed3-8cd6-af16702e6858}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignBottom">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <arc x="-8" y="-3" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" start="0" width="8" height="6" angle="90"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="60" y="-55" z="10" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{fb13357d-6747-4ed3-8cd6-af16702e6858}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignBottom">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc x="0" y="-3" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" start="180" width="8" height="6" angle="90"/>
+        <arc x="-1" y="-5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" start="270" width="10" height="8" angle="90"/>
+        <circle x="-2.5" y="-27.5" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" diameter="5"/>
+        <circle x="-22.5" y="-27.5" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" diameter="5"/>
+        <circle x="37.5" y="2.5" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" diameter="5"/>
+        <circle x="-22.5" y="22.5" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" diameter="5"/>
+        <circle x="-2.5" y="22.5" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" diameter="5"/>
+        <terminal type="Generic" x="0" y="25" name="L2.1" uuid="{881bcffc-98f8-4a1c-9aff-61735b211477}" orientation="s"/>
+        <terminal type="Generic" x="40" y="5" name="PE" uuid="{5ff2ec3b-cd57-4bcb-a1bb-5e75a1bd7351}" orientation="e"/>
+        <terminal type="Generic" x="-20" y="25" name="L1.1" uuid="{9e1e24cc-30bc-43ca-869d-aef7fb447ffd}" orientation="s"/>
+        <terminal type="Generic" x="0" y="-25" name="L2" uuid="{c59dbabf-322a-4f9a-a9fa-2090f51643c4}" orientation="n"/>
+        <terminal type="Generic" x="-20" y="-25" name="L1" uuid="{b1eb8115-a864-4f3e-a371-bbcd9c38cd1c}" orientation="n"/>
+    </description>
+</definition>

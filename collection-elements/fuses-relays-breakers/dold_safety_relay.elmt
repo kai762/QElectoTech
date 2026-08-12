@@ -1,0 +1,44 @@
+<definition type="element" link_type="simple" hotspot_x="85" hotspot_y="59" width="170" height="120" version="0.100.0">
+    <uuid uuid="{bc5b1a92-981f-41bb-abdb-a9b492416141}"/>
+    <names>
+        <name lang="en">dold_safety_relay</name>
+    </names>
+    <elementInformations/>
+    <description>
+        <rect ry="0" x="-80" y="-50" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="160" height="100" rx="0"/>
+        <text x="-12" y="-40" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="41"/>
+        <text x="-33" y="-40" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="33"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="90" y="-40" z="3" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{0ee3a978-c2eb-45c6-ad16-67c62c9519e2}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>formula</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="90" y="10" z="4" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{0f744b3c-ee9e-42bf-86f8-d7d9dfcb18f9}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <text x="44" y="47" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="Y2"/>
+        <text x="58" y="47" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="S21(-)"/>
+        <text x="-75" y="47" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="14"/>
+        <text x="1" y="47" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="A2(-)"/>
+        <text x="-53" y="-40" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="23"/>
+        <text x="4" y="-40" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="A1(+)"/>
+        <text x="24" y="47" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="Y1"/>
+        <text x="-15" y="47" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="42"/>
+        <text x="-55" y="47" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="24"/>
+        <text x="-35" y="47" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="34"/>
+        <text x="-75" y="-40" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="13"/>
+        <terminal type="Generic" x="10" y="55" name="" uuid="{bbd7238f-1f46-4621-bca1-45a1238ae82f}" orientation="s"/>
+        <terminal type="Generic" x="-30" y="55" name="" uuid="{76b7c4aa-3eb5-463f-8387-a0b66fe7023e}" orientation="s"/>
+        <terminal type="Generic" x="-10" y="55" name="" uuid="{0d56cfe9-8c77-4050-859d-75fd4a7f678b}" orientation="s"/>
+        <terminal type="Generic" x="-9" y="-55" name="" uuid="{6d386351-dfd6-4d57-b97c-0d44d5647cf7}" orientation="n"/>
+        <terminal type="Generic" x="30" y="55" name="" uuid="{34d2e900-9fad-4a0c-9d60-7d147b3bdaf0}" orientation="s"/>
+        <terminal type="Generic" x="-50" y="55" name="" uuid="{5b09f672-efd5-4b00-be0a-20e03c7334fc}" orientation="s"/>
+        <terminal type="Generic" x="10" y="-55" name="" uuid="{df08b4ba-2902-4cf5-891d-55d3526c64a9}" orientation="n"/>
+        <terminal type="Generic" x="-70" y="55" name="" uuid="{74791a64-9d7b-4766-bfbf-53a9ab3df7b2}" orientation="s"/>
+        <terminal type="Generic" x="-70" y="-55" name="" uuid="{88ab5210-99af-432f-9c30-de8c9e918efe}" orientation="n"/>
+        <terminal type="Generic" x="-50" y="-55" name="" uuid="{9f75fb46-c140-42b5-8ab6-ee1264cda150}" orientation="n"/>
+        <terminal type="Generic" x="-30" y="-55" name="" uuid="{06067cfc-bb26-4b81-a5bd-bc1dbd46e730}" orientation="n"/>
+        <terminal type="Generic" x="50" y="55" name="" uuid="{4d422abe-599a-47a6-aa8a-2d062de630a6}" orientation="s"/>
+        <terminal type="Generic" x="70" y="55" name="" uuid="{7263d167-9612-4d40-ae73-37428adb524b}" orientation="s"/>
+    </description>
+</definition>

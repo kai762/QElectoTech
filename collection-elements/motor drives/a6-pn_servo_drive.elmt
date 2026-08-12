@@ -1,0 +1,61 @@
+<definition type="element" link_type="simple" hotspot_x="45" hotspot_y="107" width="90" height="260" version="0.100.0">
+    <uuid uuid="{99ab7792-c32a-4439-aec1-34bb05a422db}"/>
+    <names>
+        <name lang="en">servo-drive</name>
+    </names>
+    <elementInformations/>
+    <description>
+        <line end1="none" end2="none" y1="127" antialias="false" y2="127" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="35" length1="1.5" x2="31" length2="1.5"/>
+        <text x="5" y="50" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="P+"/>
+        <text x="5" y="110" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="W"/>
+        <text x="5" y="80" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="N-"/>
+        <text x="5" y="60" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="D"/>
+        <text x="5" y="70" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="C"/>
+        <text x="5" y="120" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="PE"/>
+        <text x="5" y="100" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="V"/>
+        <text x="5" y="40" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L2"/>
+        <text x="5" y="90" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="U"/>
+        <text x="5" y="-63" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="CH4"/>
+        <text x="-12" y="-8" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="CH2"/>
+        <rect ry="0" x="-5" y="-5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="10" rx="0"/>
+        <rect ry="0" x="-40" y="-100" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="80" height="240" rx="0"/>
+        <rect ry="0" x="-5" y="-33" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="10" rx="0"/>
+        <text x="-21" y="-63" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="CH3"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-35" y="-90" z="2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{6314b5dd-1ebb-40cf-8329-9ef425b1679d}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>__-__-__-__-__-__</text>
+        </dynamic_text>
+        <line end1="none" end2="none" y1="125" antialias="false" y2="125" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="34" length1="1.5" x2="32" length2="1.5"/>
+        <rect ry="0" x="-15" y="-60" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="10" rx="0"/>
+        <line end1="none" end2="none" y1="129" antialias="false" y2="129" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="37" length1="1.5" x2="29" length2="1.5"/>
+        <rect ry="0" x="5" y="-60" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="10" rx="0"/>
+        <line end1="none" end2="none" y1="129" antialias="false" y2="139" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="33" length1="1.5" x2="33" length2="1.5"/>
+        <text x="-20" y="-85" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="PROFINET"/>
+        <text x="-12" y="-36" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="CH1"/>
+        <rect ry="0" x="-10" y="20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="110" rx="0"/>
+        <text x="5" y="30" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L1"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="50" y="-40" z="8" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{8dd1e174-071f-428f-a557-f3d17d32325b}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="50" y="-70" z="8" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{8dd1e174-071f-428f-a557-f3d17d32325b}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>formula</info_name>
+        </dynamic_text>
+        <circle x="30" y="139" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6"/>
+        <terminal type="Generic" x="33" y="144" name="" uuid="{1c7fe230-eec9-4a6b-aba2-36b92b7fe173}" orientation="s"/>
+        <terminal type="Generic" x="-5" y="-28" name="" uuid="{38133a37-98fb-4f5b-a93d-cc624c166275}" orientation="w"/>
+        <terminal type="Generic" x="-15" y="-55" name="" uuid="{794e20ed-d8ca-433f-9522-edc789f69517}" orientation="w"/>
+        <terminal type="Generic" x="15" y="-55" name="" uuid="{9a1401fc-fe77-48d2-926b-3725b5254786}" orientation="e"/>
+        <terminal type="Generic" x="-5" y="30" name="" uuid="{5a773def-fa2e-4eb3-b1df-05104debbad3}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="0" name="" uuid="{e2514e4c-7a30-4599-a520-5d63fdb422fd}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="40" name="" uuid="{0049ba36-60ea-4330-98f2-451b252e682e}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="50" name="" uuid="{b1721e0c-f981-431b-8281-e5740a7f33a9}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="110" name="" uuid="{889a50a4-93f4-4f84-bc86-9431ef85f0ac}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="90" name="" uuid="{c832cb2e-39a6-4bbd-9135-033f71c0a37d}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="60" name="" uuid="{aee447d6-f24a-4a9b-b0c3-8632dd5c693a}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="80" name="" uuid="{968b150b-e1db-419f-a435-3e9d437f8d05}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="100" name="" uuid="{ec4fb95d-44ec-475a-afc1-c593d07a611c}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="120" name="" uuid="{b5043e74-9b85-4d05-990e-6084435842fb}" orientation="w"/>
+        <terminal type="Generic" x="-5" y="70" name="" uuid="{f328beb8-bc64-4d46-b47e-76c73fb2f2ce}" orientation="w"/>
+    </description>
+</definition>
